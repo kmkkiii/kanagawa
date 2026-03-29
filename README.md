@@ -4,15 +4,16 @@ An [Obsidian](https://obsidian.md/) theme inspired by the colors of the famous p
 
 Color palette is based on [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim).
 
-![screenshot](screenshot.png)
+![dark-theme](dark-theme.png)
+![light-theme](light-theme.png)
 
 ## Variants
 
-| Variant | Mode | Description |
-|---------|------|-------------|
-| **Wave** | Dark | Default dark theme with deep ocean tones |
+| Variant    | Mode       | Description                                                                                             |
+| ---------- | ---------- | ------------------------------------------------------------------------------------------------------- |
+| **Wave**   | Dark       | Default dark theme with deep ocean tones                                                                |
 | **Dragon** | Dark (alt) | Muted, warm dark theme (requires [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)) |
-| **Lotus** | Light | Warm paper-like light theme |
+| **Lotus**  | Light      | Warm paper-like light theme                                                                             |
 
 ## Installation
 
@@ -36,6 +37,10 @@ Install the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings
 - **Dark theme variant** — Switch between Wave and Dragon
 - **Text font** — Custom text font family
 - **Monospace font** — Custom monospace font family
+
+## Background
+
+This theme was created because the original Obsidian Kanagawa theme ([obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) by [@sspaeti](https://github.com/sspaeti)) is no longer available (repository returned 404). This is a fresh rewrite based on the same [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) color palette, with modernized CSS and additional Dragon variant support.
 
 ## Credits
 
