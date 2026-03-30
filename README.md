@@ -44,9 +44,11 @@ This theme was created because the original Obsidian Kanagawa theme ([obsidian_k
 
 ## Credits
 
-- Color palette: [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by [@rebelot](https://github.com/rebelot)
+- Color palette: [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by [@rebelot](https://github.com/rebelot) (MIT License)
 - Original Obsidian port: [obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) by [@sspaeti](https://github.com/sspaeti)
 
 ## License
 
 [MIT](LICENSE)
+
+The color palette used in this theme is derived from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim), which is licensed under the MIT License. See the original [LICENSE](https://github.com/rebelot/kanagawa.nvim/blob/master/LICENSE) for details.
